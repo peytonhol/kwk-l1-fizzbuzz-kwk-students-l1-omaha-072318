@@ -10,8 +10,8 @@
 
 num_of_hotdogs_eaten = 0
 
-while num_of_hotdogs_eaten < 108
-  num_of_hotdogs_eaten += 2
+while num_of_hotdogs_eaten < 7
+  num_of_hotdogs_eaten += 1
   puts "You have now eaten #{num_of_hotdogs_eaten} hot dog(s)."
 end
 
